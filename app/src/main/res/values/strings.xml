@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Blue Pen Simulator</string>
+    <string name="et_texto_hint">Digite alguma coisa aqui</string>
+    <string name="btn_text">Enviar</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Blue Pen Simulator</string>
+    <string name="et_texto_hint">Type something here</string>
+    <string name="btn_text">Send</string>
+</resources>
